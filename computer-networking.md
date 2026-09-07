@@ -2,6 +2,6 @@
 
 1. [High Performance Browser Networking](https://hpbn.co/)
 
-2. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet)
+2. [UNIX Network Programming](./books/UNIX_Network_Programming.pdf)
 
-3. [CS 244c: Advanced Networking and Distributed Systems](https://www.scs.stanford.edu/26wi-cs244c)
+3. [CS144: Introduction to Computer Networking](https://github.com/PKUFlyingPig/CS144-Computer-Network)
